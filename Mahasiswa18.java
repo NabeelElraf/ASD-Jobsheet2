@@ -37,4 +37,10 @@ public class Mahasiswa18 {
         }
     }
 
+public Mahasiswa18 (String nm, String nim, double ipk, String kls){
+    nama = nm; 
+    this.nim = nim;
+    this.ipk = ipk;
+    kelas = kls;
+}
 }
