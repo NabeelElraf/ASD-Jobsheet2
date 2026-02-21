@@ -16,6 +16,8 @@ public class StudentMain18 {
     mhs2.updateIpk(3.30);
     mhs2.tampilkaninformasi();
 
+    Mahasiswa18 mhsBudi = new Mahasiswa18("Budi Santoso", "2241720188", 3.80, "TI 2A");
+    mhsBudi.tampilkaninformasi();
 
 
     }
